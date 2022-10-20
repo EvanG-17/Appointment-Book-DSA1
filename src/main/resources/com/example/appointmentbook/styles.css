@@ -1,0 +1,17 @@
+.button {
+    -fx-text-fill: #34568B;
+    -fx-font-weight: bold;
+    /*-fx-background-color: linear-gradient(#88AA88, #AACCAA);*/
+    /*-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.6), 5, 0.0, 0, 1);1*/
+}
+
+.label {
+    -fx-text-fill: #FF6F61;
+    -fx-font-weight: bold;
+    /*-fx-background-color: linear-gradient(#88AA88, #AACCAA);*/
+    /*-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.6), 5, 0.0, 0, 1);1*/
+}
+
+.combo-box{
+    -fx-text-fill: #92A8D1;
+}
